@@ -37,4 +37,11 @@ Next we want to install a splunk server. To do this first we naviagte to ubuntu.
 
 <img width="1617" height="653" alt="image" src="https://github.com/user-attachments/assets/77afdcd5-9f58-4cdb-b7c2-66100069cf4b" />
 
-To import the server into virtualbox we select a new machine
+To import the server into virtualbox we select a new machine and use the iso file that we downloaded and create the Splunk server. Then we start the virtual machine and select continue and done until we reach the create account page. Enter in the information and then select install ubuntu server. The download is complete when the reboot now prompt appears. 
+
+<img width="1317" height="917" alt="image" src="https://github.com/user-attachments/assets/401fd980-1821-42f3-8c6c-b02b76480a1b" />
+
+When recieving the error prompt simply select enter and then let the server reboot. You will know that the server has been successfully configured when this prompt is seen. 
+
+
+
