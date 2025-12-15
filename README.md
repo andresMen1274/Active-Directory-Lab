@@ -3,7 +3,7 @@ In this lab I will be creating an active directory lab. The lab will have two se
 
 First I will begin the lab by creating a diagram to display what network I intend to create. I will be using draw.io to create the diagram. Since this is an active directory lab I will have two servers on the network. The first server will be used as a splunk server to have logs, events, and metrics. The second server will be used used as an actve directory sever which is used for authentication, group policies, and computer management. I will then have a Windows 10 machine that is connected to the splunk server to forward data to the server as well as be connected to the switch. Then I will have a kali linux machine that is connected to the switch and used to simulate attacks. Then all of these devices will be connected to a switch and then to a router. Which will allow our system to connect to the internet while keeping information confidental through a switch.
 
-<img width="720" height="697" alt="image" src="https://github.com/user-attachments/assets/b05dd020-1dfa-472c-837d-74b91b597516" />
+<img width="728" height="707" alt="image" src="https://github.com/user-attachments/assets/b76efb2c-9f54-4df4-aedc-f2c3420c2de9" />
 
 Since I have the kali linux machine downloaded I will create the windows 10 machine. To do this I naviagte to this link https://www.microsoft.com/en-ca/software-download/windows10 and download the Create Windows 10 installation media. 
 
