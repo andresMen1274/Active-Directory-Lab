@@ -18,3 +18,4 @@ Then we will boot up the virtual machine and then select the defalut settings an
 <img width="1025" height="847" alt="image" src="https://github.com/user-attachments/assets/fd5a5c99-92c2-4d95-9eb9-21f677832a18" />
 
 Then when asked which installation we will like select custom installation and then wait for it to finish installing. 
+
