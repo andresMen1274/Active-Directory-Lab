@@ -13,9 +13,10 @@ When finished downloading we open the file and accept the end-user license agree
 
 Then we are going to create a new virtual machine with windows 10. To do this first we naviagte to virtualbox then select new. Select the iso image that we just created and select create.
 
+<img width="800" height="707" alt="image" src="https://github.com/user-attachments/assets/e674fecc-1ac1-4df8-9473-5c5568fbc261" />
+
 <img width="940" height="725" alt="image" src="https://github.com/user-attachments/assets/372d8493-cb32-4d5e-a7a1-f720c99ea996" />
 
-<img width="800" height="707" alt="image" src="https://github.com/user-attachments/assets/e674fecc-1ac1-4df8-9473-5c5568fbc261" />
 
 To do this search windows server 2022 iso and download the 64-bit version of the iso. 
 
