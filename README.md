@@ -41,7 +41,10 @@ To import the server into virtualbox we select a new machine and use the iso fil
 
 <img width="1317" height="917" alt="image" src="https://github.com/user-attachments/assets/401fd980-1821-42f3-8c6c-b02b76480a1b" />
 
-When recieving the error prompt simply select enter and then let the server reboot. You will know that the server has been successfully configured when this prompt is seen. 
+When recieving the error prompt simply select enter and then let the server reboot. You will know that the server has been successfully configured when the login prompt is seen. After logging into the machine I will check for updates by using the command sudo apt-get update && sudo apt-get upgrade -y.
+
+<img width="932" height="852" alt="image" src="https://github.com/user-attachments/assets/d0fa8728-8a43-4b76-8ea4-67ffca674f3c" />
 
 
+That is everything for the configuration of the Active Directory lab.
 
