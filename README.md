@@ -19,8 +19,7 @@ When the download has finished we then create a new machine and select the iso i
 
 <img width="940" height="725" alt="image" src="https://github.com/user-attachments/assets/372d8493-cb32-4d5e-a7a1-f720c99ea996" />
 
-
-To do this search windows server 2022 iso and download the 64-bit version of the iso. 
+Now I am going to create the Windows server. To do this search windows server 2022 iso and download the 64-bit version of the iso. 
 
 <img width="1680" height="727" alt="image" src="https://github.com/user-attachments/assets/bee7de2c-7211-4da7-a243-570e8804c331" />
 
